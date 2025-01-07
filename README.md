@@ -1,6 +1,7 @@
-👋 Welcome to Andrew's github profile!
+Hi there!👋 
+Thanks for stumbling upon my github!
 
-🔨 Passionate Software Craftsman!
+🔨 I am a Passionate Software Craftsman!
 
 🎓 Currently studying at Sheridan College.
 
