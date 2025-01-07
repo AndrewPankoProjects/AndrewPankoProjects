@@ -1,5 +1,5 @@
-👋 Welcome to Andrew's github profile!
-🔨 Passionate Software Craftsman!
+👋 Welcome to Andrew's github profile! \n
+🔨 Passionate Software Craftsman! \n
 🎓 Currently studying at Sheridan College.
 
 I love to use: JavaScript, Python, Express JS, HTML/CSS, and Java
